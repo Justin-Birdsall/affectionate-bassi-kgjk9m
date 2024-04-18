@@ -1,0 +1,45 @@
+{
+  "frames": {
+    "spritesheet0.png": {
+      "frame": { "x": 0, "y": 0, "w": 32, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 40 },
+      "sourceSize": { "w": 32, "h": 160 }
+    },
+    "spritesheet1.png": {
+      "frame": { "x": 0, "y": 32, "w": 32, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 40 },
+      "sourceSize": { "w": 32, "h": 40 }
+    },
+    "spritesheet2.png": {
+      "frame": { "x": 0, "y": 64, "w": 32, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 },
+      "sourceSize": { "w": 32, "h": 40 }
+    },
+    "spritesheet3.png": {
+      "frame": { "x": 0, "y": 96, "w": 32, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 40 },
+      "sourceSize": { "w": 32, "h": 40 }
+    },
+    "spritesheet4.png": {
+      "frame": { "x": 0, "y": 128, "w": 32, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 22 },
+      "sourceSize": { "w": 32, "h": 40 }
+    }
+  },
+  "meta": {
+    "image": "MouseEat.png",
+    "format": "RGBA8888",
+    "size": { "w": 32, "h": 160 },
+    "scale": ".5"
+  }
+}
